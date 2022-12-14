@@ -10,7 +10,7 @@
 - Tools: SQL, Tableu, Excel, Sheet, R.
 - Data Analytics Skills: Data cleaning, data manipulation, data transformation, data aggregation, data visualization, presentation.
     
-📫 You can reach me on:
+📫 You can find me on:
 - [LinkedIn](https://www.linkedin.com/in/ayumitha)
 - [Tableau](https://public.tableau.com/app/profile/ayumitha)
 
